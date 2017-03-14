@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_timeview"
+            android:title="@string/Time_View"
+            android:icon="@android:drawable/ic_menu_today" />
+        <item
+            android:id="@+id/menu_mapview"
+            android:title="@string/Map_View"
+            android:icon="@android:drawable/ic_menu_mylocation" />
+    </group>
+
+</menu>
