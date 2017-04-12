@@ -1,4 +1,4 @@
-# android_resume
+# Resume
 This is a resume app on android platform.
 
 personal resume data is load by http request from aws server as json format. Personal photo, name, phone and address are show on the navigation menu header. experience are show on time view and map view. 
